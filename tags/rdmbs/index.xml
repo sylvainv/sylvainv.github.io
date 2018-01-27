@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sylvain Verly</title>
+    <link>http://sylvainv.me/tags/rdmbs/index.xml</link>
+    <description>Recent content on Sylvain Verly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Sylvain Verly</copyright>
+    <atom:link href="/tags/rdmbs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Nuodata</title>
+      <link>http://sylvainv.me/project/nuodata/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://sylvainv.me/project/nuodata/</guid>
+      <description>&lt;p&gt;I founded Nuodata.io: a SaaS platform and open source open source project. It is based on PostgreSQL and Node.js. I am responsible for the development and the architecture of the project.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://github.com/nuodata/nuodata-db-api&#34;&gt;&lt;i class=&#34;fa fa-github&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; nuodata-db-api&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://github.com/nuodata/nuodata-server&#34;&gt;&lt;i class=&#34;fa fa-github&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; nuodata-server&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nuodata.io&#34;&gt;http://nuodata.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The goal is to use tables and views as your API endpoints, for CRUD operations. The goal is to shift a lot of development to the database to save time and have a more reliable data and system.&lt;/p&gt;
+
+&lt;p&gt;Web stack:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;PostgreSQL,&lt;/li&gt;
+&lt;li&gt;Node.js,&lt;/li&gt;
+&lt;li&gt;Json Web Token&lt;/li&gt;
+&lt;li&gt;Digital Ocean&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

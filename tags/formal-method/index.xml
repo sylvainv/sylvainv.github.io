@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sylvain Verly</title>
+    <link>http://sylvainv.me/tags/formal-method/index.xml</link>
+    <description>Recent content on Sylvain Verly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Sylvain Verly</copyright>
+    <atom:link href="/tags/formal-method/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>NASA&#39;s SAFER B-method</title>
+      <link>http://sylvainv.me/project/b-method-safer/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://sylvainv.me/project/b-method-safer/</guid>
+      <description>&lt;p&gt;The objective of the project was to develop an implementation of the SAFER backpack propulsion system using formal methods. SAFER backpack was designed by NASA. It helps an astronaut, in case of accidental separation from the spacecraft during an EVA (Extra Vehicular Activity), to return to his space shuttle.&lt;/p&gt;
+
+&lt;p&gt;This project goal was to develop a working software system for the backpack, from the NASA specification document and using the B-method. The software should response properly (as stated in the specification) to inputs given by the astronaut.&lt;/p&gt;
+
+&lt;p&gt;A key objective is to develop a deep understanding of how the B-method works, its strengths and limitations. The SAFER specification has been previously analysed using two other formal methods, i.e. PVS and VDM. Using the SAFER example it will be possible to compare the results of using B-Method with the results of these two previous approaches carried out.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://sylvainv.me/docs/nasa-safer-using-b-method.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Full dissertation document&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
