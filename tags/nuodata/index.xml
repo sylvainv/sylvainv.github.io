@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sylvain Verly</title>
-    <link>http://sylvainv.me/tags/nuodata/index.xml</link>
+    <link>http://sylvainv.github.io/tags/nuodata/index.xml</link>
     <description>Recent content on Sylvain Verly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Nuodata</title>
-      <link>http://sylvainv.me/project/nuodata/</link>
+      <link>http://sylvainv.github.io/project/nuodata/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://sylvainv.me/project/nuodata/</guid>
+      <guid>http://sylvainv.github.io/project/nuodata/</guid>
       <description>&lt;p&gt;I founded Nuodata.io: a SaaS platform and open source open source project. It is based on PostgreSQL and Node.js. I am responsible for the development and the architecture of the project.&lt;/p&gt;
 
 &lt;ul&gt;

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home-rsses on Sylvain Verly</title>
-    <link>http://sylvainv.me/home/index.xml</link>
+    <link>http://sylvainv.github.io/home/index.xml</link>
     <description>Recent content in Home-rsses on Sylvain Verly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>

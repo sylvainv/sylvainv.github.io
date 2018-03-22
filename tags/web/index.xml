@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sylvain Verly</title>
-    <link>http://sylvainv.me/tags/web/index.xml</link>
+    <link>http://sylvainv.github.io/tags/web/index.xml</link>
     <description>Recent content on Sylvain Verly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,13 +11,13 @@
     
     <item>
       <title>Manta: a friendly user interface to display query results from a Semantic Web search engine</title>
-      <link>http://sylvainv.me/project/manta-semantic-web-search-engine/</link>
+      <link>http://sylvainv.github.io/project/manta-semantic-web-search-engine/</link>
       <pubDate>Sun, 22 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://sylvainv.me/project/manta-semantic-web-search-engine/</guid>
+      <guid>http://sylvainv.github.io/project/manta-semantic-web-search-engine/</guid>
       <description>&lt;p&gt;The Semantic Web is a set of technologies that aims to make data available and easily readable for machine via the web. Unlike the classic Web where resources are pages pub- lished using natural language and some structured information, resources in the Semantic Web are organized formally using a set of languages developed by the W3C. Search engines are crucial for discovering those resources. Sindice is a semantic web search engine that crawls the Web looking for those kind of information. Its interface is however not intended for regular users, like most Semantic Web search engine. This is the principle behind Manta . Manta intends to make a friendly user interface for search engine using Sindice.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://sylvainv.me/docs/manta-semantic-web-search-engine.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Full dissertation document&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://sylvainv.github.io/docs/manta-semantic-web-search-engine.pdf&#34;&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Full dissertation document&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
