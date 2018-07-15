@@ -17,5 +17,6 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push origin develop
-git subtree push --prefix=public git@github.com:sylvainv/sylvainv.github.io.git master
+git push origin $(git subtree split --prefix=public --onto=git@github.com:sylvainv/sylvainv.github.io.git/master):master
+
 
