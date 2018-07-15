@@ -34,10 +34,6 @@ weight = 0
   skill = "Nginx"
 
 [[skills.skills]]
-  icon = "mongodb"
-  skill = "MongoDB"
-
-[[skills.skills]]
   icon = "redis"
   skill = "Redis"
 
