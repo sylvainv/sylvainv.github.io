@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sylvain Verly</title>
+    <link>http://sylvainv.github.io/tags/postgresql-extension/index.xml</link>
+    <description>Recent content on Sylvain Verly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Sylvain Verly</copyright>
+    <atom:link href="/tags/postgresql-extension/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PostgreSQL</title>
+      <link>http://sylvainv.github.io/project/postgresql-extension-pg-salesforce-id/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://sylvainv.github.io/project/postgresql-extension-pg-salesforce-id/</guid>
+      <description>&lt;p&gt;The plugin helps database administrators who use PostgreSQL and Salesforce IDS in their database to have a more efficient internal representation that helps reduce space and time to compute comparison between two ids as opposed to using a text type.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sylvainv/pg-salesforce-id&#34;&gt;&lt;i class=&#34;fa fa-github&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Dev stack:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;PostgreSQL,&lt;/li&gt;
+&lt;li&gt;PostgreSQL extension,&lt;/li&gt;
+&lt;li&gt;C++&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
