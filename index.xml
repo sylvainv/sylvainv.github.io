@@ -19,7 +19,7 @@
       <description>&lt;p&gt;The plugin helps database administrators who use PostgreSQL and Salesforce IDS in their database to have a more efficient internal representation that helps reduce space and time to compute comparison between two ids as opposed to using a text type.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/sylvainv/pg-salesforce-id&#34;&gt;&lt;i class=&#34;fa fa-github&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sylvainv/pg-salesforce-id&#34;&gt;&lt;i class=&#34;fa fa-github&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Github project&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Dev stack:&lt;/p&gt;
