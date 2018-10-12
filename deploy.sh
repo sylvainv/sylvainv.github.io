@@ -17,7 +17,6 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push origin develop
-commit_hash=`git subtree split --prefix=public master`
-git push origin ${commit_hash}:master --force
+git push origin `git subtree split --prefix=public master`:master --force
 
 
