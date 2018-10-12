@@ -13,6 +13,18 @@
     
     
     <item>
+      <title></title>
+      <link>http://sylvainv.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://sylvainv.github.io/home/about/</guid>
+      <description>Summary I am a software engineer, graduated from The University of Edinburgh with a MSc Informatics. I studied software development, database design, machine learning (more specifically neural networks, genetic algorithms, regression analysis), information retrieval and formal methods.
+My topic of interests are:
+ Database design, API Design, Scalable, fault tolerant systems. Data Science, Machine Learning.  I am available to consult and collaborate on projects.
+ CV</description>
+    </item>
+    
+    <item>
       <title>Articles</title>
       <link>http://sylvainv.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
@@ -28,18 +40,6 @@
       
       <guid>http://sylvainv.github.io/home/projects/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://sylvainv.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://sylvainv.github.io/home/about/</guid>
-      <description>Summary I am a software engineer, graduated from The University of Edinburgh with a MSc Informatics. I studied software development, database design, machine learning (more specifically neural networks, genetic algorithms, regression analysis), information retrieval and formal methods.
-My topic of interests are:
- Database design, API Design, Scalable, fault tolerant systems. Data Science, Machine Learning.  I am available to consult and collaborate on projects.
- CV</description>
     </item>
     
   </channel>
