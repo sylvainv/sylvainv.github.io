@@ -19,5 +19,5 @@ git commit -m "$msg"
 git push origin develop
 git subtree split -P public -b published
 git push origin published:master --force
-git branch -d published
+git branch -D published
 
