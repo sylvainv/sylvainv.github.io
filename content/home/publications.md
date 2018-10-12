@@ -12,6 +12,9 @@ widget = "publications"
 # Order that this section will appear in.
 weight = 40
 
+# Number of publications to list.
+count = 1
+
 # Show publication details (such as abstract)? (true/false)
 detailed_list = true
 
