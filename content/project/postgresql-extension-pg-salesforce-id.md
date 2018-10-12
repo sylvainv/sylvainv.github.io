@@ -5,7 +5,7 @@ image = ""
 image_preview = ""
 summary = "Use a PostgreSQL internal type to represent Salesforce ID"
 tags = ["postgresql", "postgresql extension", "salesforce", "salesforce id"]
-title = "PostgreSQL"
+title = "PostgreSQL Salesforce ID extension"
 external_link = "https://github.com/sylvainv/pg-salesforce-id"
 
 +++
