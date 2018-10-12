@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sylvain Verly</title>
-    <link>http://sylvainv.github.io/index.xml</link>
-    <description>Recent content on Sylvain Verly</description>
+    <title>Sylvain Verly on Sylvain Verly</title>
+    <link>http://sylvainv.github.io/</link>
+    <description>Recent content in Sylvain Verly on Sylvain Verly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sylvain Verly</copyright>
-    <lastBuildDate>Wed, 11 Apr 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Postgresql replication &amp; backup with repmgr &amp; barman</title>
+      <link>http://sylvainv.github.io/publication/postgresql-replication-backup/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://sylvainv.github.io/publication/postgresql-replication-backup/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PostgreSQL Salesforce ID extension</title>

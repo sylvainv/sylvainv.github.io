@@ -1,14 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home-rsses on Sylvain Verly</title>
-    <link>http://sylvainv.github.io/home/index.xml</link>
-    <description>Recent content in Home-rsses on Sylvain Verly</description>
+    <title>Homes on Sylvain Verly</title>
+    <link>http://sylvainv.github.io/home/</link>
+    <description>Recent content in Homes on Sylvain Verly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sylvain Verly</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://sylvainv.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Articles</title>
+      <link>http://sylvainv.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://sylvainv.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://sylvainv.github.io/home/projects/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://sylvainv.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://sylvainv.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://sylvainv.github.io/home/about/</guid>
+      <description>Summary I am a software engineer, graduated from The University of Edinburgh with a MSc Informatics. I studied software development, database design, machine learning (more specifically neural networks, genetic algorithms, regression analysis), information retrieval and formal methods.
+My topic of interests are:
+ Database design, API Design, Scalable, fault tolerant systems. Data Science, Machine Learning.  I am available to consult and collaborate on projects.
+ CV</description>
+    </item>
     
   </channel>
 </rss>
