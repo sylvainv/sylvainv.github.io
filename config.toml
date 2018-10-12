@@ -58,7 +58,7 @@ googleAnalytics = "UA-86530317-1"
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:info@sylvainv.me"
+    link = "mailto:sylvain.verly@gmail.com"
 
   [[params.social]]
     icon = "github"
