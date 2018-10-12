@@ -1,3 +1,3 @@
 ## Blog
 
-Sylvain.me personal blog
+https://sylvainv.github.io personal blog
