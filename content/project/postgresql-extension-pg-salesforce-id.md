@@ -11,7 +11,7 @@ external_link = "https://github.com/sylvainv/pg-salesforce-id"
 +++
 The plugin helps database administrators who use PostgreSQL and Salesforce IDS in their database to have a more efficient internal representation that helps reduce space and time to compute comparison between two ids as opposed to using a text type.
 
-* <a href="https://github.com/sylvainv/pg-salesforce-id"><i class="fa fa-github" aria-hidden="true"></i> </a>
+* <a href="https://github.com/sylvainv/pg-salesforce-id"><i class="fa fa-github" aria-hidden="true"></i> Github project</a>
 
 Dev stack:
 
