@@ -3,7 +3,7 @@ title = "Postgresql replication & backup with repmgr & barman"
 date = "2018-10-11"
 authors = []
 publication_types = ["0"]
-publication = ""
+publication = "Article on www.medium.com"
 abstract = "In this article I will introduce you with a solution for:
 
 Performing back up that will allow Point-In-Time Recovery using barman.
