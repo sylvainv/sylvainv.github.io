@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Postgresql on Sylvain Verly</title>
+    <title>postgresql on Sylvain Verly</title>
     <link>http://sylvainv.github.io/tags/postgresql/</link>
-    <description>Recent content in Postgresql on Sylvain Verly</description>
+    <description>Recent content in postgresql on Sylvain Verly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sylvain Verly</copyright>
@@ -18,9 +18,7 @@
       <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>http://sylvainv.github.io/project/postgresql-extension-pg-salesforce-id/</guid>
-      <description>The plugin helps database administrators who use PostgreSQL and Salesforce IDS in their database to have a more efficient internal representation that helps reduce space and time to compute comparison between two ids as opposed to using a text type.
-  Github project  Dev stack:
- PostgreSQL, PostgreSQL extension, C++  </description>
+      <description>Use a PostgreSQL internal type to represent Salesforce ID</description>
     </item>
     
     <item>
@@ -29,8 +27,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://sylvainv.github.io/project/nuodata/</guid>
-      <description>I founded Nuodata.io: a SaaS platform and open source open source project. It is based on PostgreSQL and Node.js. I am responsible for the development and the architecture of the project.
-  nuodata-db-api  nuodata-server http://nuodata.io  The goal is to use tables and views as your API endpoints, for CRUD operations. The goal is to shift a lot of development to the database to save time and have a more reliable data and system.</description>
+      <description>Use tables and views as your API endpoints with PostgreSQL and leverage its power.</description>
     </item>
     
   </channel>

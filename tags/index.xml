@@ -7,44 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sylvain Verly</copyright>
-    <lastBuildDate>Mon, 01 Jun 2009 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://sylvainv.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>B Method</title>
-      <link>http://sylvainv.github.io/tags/b-method/</link>
-      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <title>postgresql</title>
+      <link>http://sylvainv.github.io/tags/postgresql/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://sylvainv.github.io/tags/b-method/</guid>
+      <guid>http://sylvainv.github.io/tags/postgresql/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Database</title>
-      <link>http://sylvainv.github.io/tags/database/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>postgresql extension</title>
+      <link>http://sylvainv.github.io/tags/postgresql-extension/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://sylvainv.github.io/tags/database/</guid>
+      <guid>http://sylvainv.github.io/tags/postgresql-extension/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Formal Method</title>
-      <link>http://sylvainv.github.io/tags/formal-method/</link>
-      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <title>salesforce</title>
+      <link>http://sylvainv.github.io/tags/salesforce/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://sylvainv.github.io/tags/formal-method/</guid>
+      <guid>http://sylvainv.github.io/tags/salesforce/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Nasa</title>
-      <link>http://sylvainv.github.io/tags/nasa/</link>
-      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <title>salesforce id</title>
+      <link>http://sylvainv.github.io/tags/salesforce-id/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://sylvainv.github.io/tags/nasa/</guid>
+      <guid>http://sylvainv.github.io/tags/salesforce-id/</guid>
       <description></description>
     </item>
     
@@ -58,7 +58,16 @@
     </item>
     
     <item>
-      <title>Nosql</title>
+      <title>database</title>
+      <link>http://sylvainv.github.io/tags/database/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://sylvainv.github.io/tags/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nosql</title>
       <link>http://sylvainv.github.io/tags/nosql/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
@@ -67,7 +76,7 @@
     </item>
     
     <item>
-      <title>Nuodata</title>
+      <title>nuodata</title>
       <link>http://sylvainv.github.io/tags/nuodata/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
@@ -76,25 +85,7 @@
     </item>
     
     <item>
-      <title>Postgresql</title>
-      <link>http://sylvainv.github.io/tags/postgresql/</link>
-      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://sylvainv.github.io/tags/postgresql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Postgresql Extension</title>
-      <link>http://sylvainv.github.io/tags/postgresql-extension/</link>
-      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://sylvainv.github.io/tags/postgresql-extension/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rdmbs</title>
+      <title>rdmbs</title>
       <link>http://sylvainv.github.io/tags/rdmbs/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
@@ -103,7 +94,7 @@
     </item>
     
     <item>
-      <title>Relational Database</title>
+      <title>relational database</title>
       <link>http://sylvainv.github.io/tags/relational-database/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
@@ -112,34 +103,7 @@
     </item>
     
     <item>
-      <title>Safer</title>
-      <link>http://sylvainv.github.io/tags/safer/</link>
-      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://sylvainv.github.io/tags/safer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Salesforce</title>
-      <link>http://sylvainv.github.io/tags/salesforce/</link>
-      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://sylvainv.github.io/tags/salesforce/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Salesforce Id</title>
-      <link>http://sylvainv.github.io/tags/salesforce-id/</link>
-      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://sylvainv.github.io/tags/salesforce-id/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Search Engine</title>
+      <title>search engine</title>
       <link>http://sylvainv.github.io/tags/search-engine/</link>
       <pubDate>Sun, 22 Aug 2010 00:00:00 +0000</pubDate>
       
@@ -148,7 +112,7 @@
     </item>
     
     <item>
-      <title>Semantic Web</title>
+      <title>semantic web</title>
       <link>http://sylvainv.github.io/tags/semantic-web/</link>
       <pubDate>Sun, 22 Aug 2010 00:00:00 +0000</pubDate>
       
@@ -157,7 +121,7 @@
     </item>
     
     <item>
-      <title>Sindice</title>
+      <title>sindice</title>
       <link>http://sylvainv.github.io/tags/sindice/</link>
       <pubDate>Sun, 22 Aug 2010 00:00:00 +0000</pubDate>
       
@@ -166,11 +130,47 @@
     </item>
     
     <item>
-      <title>Web</title>
+      <title>web</title>
       <link>http://sylvainv.github.io/tags/web/</link>
       <pubDate>Sun, 22 Aug 2010 00:00:00 +0000</pubDate>
       
       <guid>http://sylvainv.github.io/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B-method</title>
+      <link>http://sylvainv.github.io/tags/b-method/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://sylvainv.github.io/tags/b-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>formal method</title>
+      <link>http://sylvainv.github.io/tags/formal-method/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://sylvainv.github.io/tags/formal-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nasa</title>
+      <link>http://sylvainv.github.io/tags/nasa/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://sylvainv.github.io/tags/nasa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>safer</title>
+      <link>http://sylvainv.github.io/tags/safer/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://sylvainv.github.io/tags/safer/</guid>
       <description></description>
     </item>
     
