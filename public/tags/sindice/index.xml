@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sindice on Sylvain Verly</title>
+    <title>sindice on Sylvain Verly</title>
     <link>http://sylvainv.github.io/tags/sindice/</link>
-    <description>Recent content in Sindice on Sylvain Verly</description>
+    <description>Recent content in sindice on Sylvain Verly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sylvain Verly</copyright>
@@ -18,7 +18,7 @@
       <pubDate>Sun, 22 Aug 2010 00:00:00 +0000</pubDate>
       
       <guid>http://sylvainv.github.io/project/manta-semantic-web-search-engine/</guid>
-      <description>The Semantic Web is a set of technologies that aims to make data available and easily readable for machine via the web. Unlike the classic Web where resources are pages published using natural language and some structured information, resources in the Semantic Web are organized formally using a set of languages developed by the W3C. Search engines are crucial for discovering those resources. Sindice is a semantic web search engine that crawls the Web looking for those kind of information.</description>
+      <description>MSc Informatics Dissertation</description>
     </item>
     
   </channel>

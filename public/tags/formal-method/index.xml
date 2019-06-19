@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Formal Method on Sylvain Verly</title>
+    <title>formal method on Sylvain Verly</title>
     <link>http://sylvainv.github.io/tags/formal-method/</link>
-    <description>Recent content in Formal Method on Sylvain Verly</description>
+    <description>Recent content in formal method on Sylvain Verly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sylvain Verly</copyright>
@@ -18,8 +18,7 @@
       <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
       
       <guid>http://sylvainv.github.io/project/b-method-safer/</guid>
-      <description>The objective of the project was to develop an implementation of the SAFER backpack propulsion system using formal methods. SAFER backpack was designed by NASA. It helps an astronaut, in case of accidental separation from the spacecraft during an EVA (Extra Vehicular Activity), to return to his space shuttle.
-This project goal was to develop a working software system for the backpack, from the NASA specification document and using the B-method.</description>
+      <description>Implementation proposal for the NASA&amp;rsquo;s SAFER backpack propulsion system using B-Method</description>
     </item>
     
   </channel>
