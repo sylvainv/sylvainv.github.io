@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>postgresql on Sylvain Verly</title>
+    <title>PostgreSQL on Sylvain Verly</title>
     <link>http://sylvainv.github.io/tags/postgresql/</link>
-    <description>Recent content in postgresql on Sylvain Verly</description>
+    <description>Recent content in PostgreSQL on Sylvain Verly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sylvain Verly</copyright>
